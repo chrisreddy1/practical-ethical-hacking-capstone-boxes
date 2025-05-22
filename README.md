@@ -1,1 +1,1 @@
-# practical-ethical-hacking-capstone-boxes
+# peh-capstone-boxes
